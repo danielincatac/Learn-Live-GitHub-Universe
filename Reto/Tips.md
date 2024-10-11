@@ -16,7 +16,9 @@ for i in range(10):
 
 
 <!-- Sección de tips -->
-
+print("Hello, world!")
+for i in range(10):
+    print(i)
 
 
 <!-- Sección de tips - FIN -->
